@@ -1,11 +1,13 @@
 
 ### Hi there, I'm an Indie Developer👋
 
+
 Some of my projects are
 
 - 📄 Instacv - [https://instacv.app](https://instacv.app/) - An online platform to Create, Manage & Share Resumes(Beta)
 - 🚩 Preview Instacv - publically shared resume viewer (Beta)
-- 🎥 OTU [https://otu.web.app](https://otu.web.app) - An online platform for live teaching (Under Development)
+- 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Under Development)
+- 🔭 I’m currently working on a Nuxt Project
 
 
 
@@ -23,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### UI/UX | Startup Enthusiast | Passionate frontend Developer

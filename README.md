@@ -4,10 +4,11 @@
 
 Some of my projects are
 
+- 👨🏽‍💻 Portfolio - [https://sanjusudheer.netlify.app](https://sanjusudheer.netlify.app)
 - 📄 Instacv - [https://instacv.app](https://instacv.app/) - An online platform to Create, Manage & Share Resumes(Beta)
 - 🚩 Preview Instacv - publically shared resume viewer (Beta)
 - 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Under Development)
-- 🔭 I’m currently working on a Nuxt Project
+- 🔭 I’m currently working on a Vue Project
 
 
 

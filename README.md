@@ -4,7 +4,7 @@
 
 Some of my projects are
 
-- 👨🏽‍💻 Portfolio - [https://sanjusudheer.netlify.app](https://sanjusudheer.netlify.app)
+- 👨🏽‍💻 Portfolio - [https://sanju.dev](https://sanju.dev)
 - 📄 Instacv - [https://instacv.app](https://instacv.app/) - An online platform to Create, Manage & Share Resumes(Beta)
 - 🚩 Preview Instacv - publically shared resume viewer (Beta)
 - 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Under Development)

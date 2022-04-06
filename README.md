@@ -6,7 +6,7 @@ Some of my projects are
 
 - 👨🏽‍💻 Portfolio - [https://sanju.dev](https://sanju.dev)
 - 📄 Instacv - [https://instacv.app](https://instacv.app/) - An online platform to Create, Manage & Share Resumes(Beta)
-- 🚩 Preview Instacv - publically shared resume viewer (Beta)
+- 🚩 Preview Instacv - publically shared resume viewer (Beta - https://preview.instacv.app/NoAts9d82a/sanju_sudheer_m)
 - 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Under Development)
 - 🔭 I’m currently working on a Vue Project
 

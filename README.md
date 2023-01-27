@@ -10,7 +10,7 @@ Some of my projects are
 - 👨🏼‍💻 Jsonify - [https://jsonify.anoclap.com](https://jsonify.anoclap.com) One another JSON formatter 😄 
 - 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Under Development)
 - 🔭 I’m currently working on a Vue Project
-👨🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻
+
 
 
 <!--

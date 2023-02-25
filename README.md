@@ -1,7 +1,7 @@
 
 ### Hi there, I'm an Indie Developer👋
 
-Working mainly with: Angular 2+ | Vue | React | Nuxt | Node JS | Typescript
+Working mainly with: <strong>Angular 2+ | Vue | React | Nuxt | Node JS | Typescript<strong> 💪
 
 Some of my projects are
 

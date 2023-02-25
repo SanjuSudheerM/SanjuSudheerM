@@ -1,6 +1,7 @@
 
 ### Hi there, I'm an Indie Developer👋
 
+Working mainly with: Angular 2+ | Vue | React | Nuxt | Node JS | Typescript
 
 Some of my projects are
 
@@ -27,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### UI/UX | Startup Enthusiast | Passionate frontend Developer
+#### UI/UX | Startup Enthusiast | Frontend Developer 

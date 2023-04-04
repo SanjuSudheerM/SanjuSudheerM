@@ -1,7 +1,7 @@
 
 ### Hi there, I'm an Indie Developer👋
 
-Working with: <strong>Angular 2+ | Vue | React | Nuxt | Node JS | Typescript<strong> 💪
+Working with: <strong>Angular 2+ | Vue | React | Nuxt | Node JS | Typescript | CSS ❤️ <strong> 💪
 
 Some of my projects are
 
@@ -9,8 +9,8 @@ Some of my projects are
 - 📄 Instacv - [https://instacv.app](https://instacv.app/) - An online platform to Create, Manage & Share Resumes(Beta)
 - 🚩 Preview Instacv - publically shared resume viewer (Beta - https://preview.instacv.app/NoAts9d82a/sanju_sudheer_m)
 - 👨🏼‍💻 Jsonify - [https://jsonify.anoclap.com](https://jsonify.anoclap.com) One another JSON formatter 😄 
-- 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Under Development)
-- 🔭 I’m currently working on a Vue Project
+- 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Currently down)
+- 🔭 I’m currently working on a React Project
 
 
 

@@ -10,7 +10,8 @@ Some of my projects are
 - 🚩 Preview Instacv - publically shared resume viewer (Beta - https://preview.instacv.app/NoAts9d82a/sanju_sudheer_m)
 - 👨🏼‍💻 Jsonify - [https://jsonify.anoclap.com](https://jsonify.anoclap.com) One another JSON formatter 😄 
 - 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Currently down)
-- 🔭 I’m currently working on a React Project
+- 🎥 InstaMeet - An online video calling application (kind of alternative to zoom, google meet - Current Down)
+- 🔭 I’m currently adding some cool features to jsonify
 
 
 

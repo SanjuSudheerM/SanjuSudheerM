@@ -8,7 +8,7 @@ Some of my projects are
 - 👨🏽‍💻 Portfolio - [https://sanju.dev](https://sanju.dev)
 - 📄 Instacv - [https://instacv.app](https://instacv.app/) - An online platform to Create, Manage & Share Resumes(Beta)
 - 🚩 Preview Instacv - publically shared resume viewer (Beta - https://preview.instacv.app/NoAts9d82a/sanju_sudheer_m)
-- 👨🏼‍💻 Jsonify - [https://jsonify.anoclap.com](https://jsonify.anoclap.com) One another JSON formatter 😄 
+- 👨🏼‍💻 Jsonify - [https://jsonify.anoclap.com](https://jsonify.anoclap.com) One another JSON formatter, In addition, it provides an option to share your formatted tab with co-developers via a shared URL, which has a lifespan of one day. 😄 
 - 🎥 OTU [https://otu.web.app](https://otu-webapp.web.app/#/) - An online platform for live teaching (Currently down)
 - 🎥 InstaMeet - An online video calling application (kind of alternative to zoom, google meet - Current Down)
 - 🔭 I’m currently adding some cool features to jsonify

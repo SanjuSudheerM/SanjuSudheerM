@@ -1,5 +1,5 @@
 
-### Hi there, I'm an Indie Developer👋
+### Hi there, I'm an Indie Maker👋
 
 Working with: <strong>Angular 2+ | Vue | React | Nuxt | Node JS | Typescript | CSS ❤️ <strong> 💪
 

@@ -10,7 +10,7 @@ Some of my projects are
 - 🚩 Preview Instacv - publically shared resume viewer (Beta - https://preview.instacv.app/NoAts269f1/sanju_sudheer_m)
 - 👨🏼‍💻 Jsonify - [https://jsonify.anoclap.com](https://jsonify.anoclap.com) One another JSON formatter, In addition, it provides an option to share your formatted tab with co-developers via a shared URL, which has a lifespan of one day. 😄 
 - 🎥 OTU - An online platform for live teaching (Currently not serving)
-- 🎥 InstaMeet - An online video calling application (kind of alternative to zoom, google meet - Current not serving)
+- 🎥 InstaMeet - An online video calling application (kind of alternative to Zoom, Google Meet - Currently not serving)
 - 🔭 I’m currently adding some cool features to jsonify
 
 

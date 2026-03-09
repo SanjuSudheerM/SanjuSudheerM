@@ -6,6 +6,7 @@ Working with: <strong>Angular 2+ | Vue | React | Nuxt | Node JS | Typescript | C
 Some of my projects are
 
 - 👨🏽‍💻 Portfolio - [https://sanju.dev](https://sanju.dev)
+- 👨🏽‍💻 Puggy - [https://puggy.dev](https://puggy.dev)
 - ✏️ Anoclap -[https://anoclap.com](https://anoclap.com)- Anoclap is a powerful free online drawing tool with an infinite canvas. Create sketches, diagrams, wireframes, and designs with our intuitive drawing tools.
 - 📄 Instacv - [https://instacv.app](https://instacv.app/) - An online platform to Create, Manage & Share Resumes(Beta)
 - 🚩 Preview Instacv - publicly shared resume viewer (Beta - https://preview.instacv.app/NoAts269f1/sanju_sudheer_m)
